@@ -18,8 +18,9 @@ supplemental material
 - coming soon
 
 ## Author information
-**Sascha Göbel** (repository maintainer)
+**Sascha Göbel** (repository maintainer) \\
 University of Konstanz
+
 Department of Politics and Public Administration
 Email: sascha.goebel@uni-konstanz.de
 
