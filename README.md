@@ -14,8 +14,8 @@ data
 figures
 - coming soon
 
-supplemental material
-- coming soon
+online-appendix
+- contains additional descriptive statistics and analyses not included in the paper
 
 ## Author information
 **Sascha Göbel** (repository maintainer) <br />
