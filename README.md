@@ -18,15 +18,14 @@ supplemental material
 - coming soon
 
 ## Author information
-**Sascha Göbel** (repository maintainer) \\
-University of Konstanz
-
-Department of Politics and Public Administration
+**Sascha Göbel** (repository maintainer) <br />
+University of Konstanz <br />
+Department of Politics and Public Administration <br />
 Email: sascha.goebel@uni-konstanz.de
 
-**Simon Munzert** (corresponding author)
-Humboldt University of Berlin
-Department of Social Sciences
-Universitätsstr. 3b
-D-10099 Berlin, Germany
-Email: simon.munzert@hu-berlin.de
+**Simon Munzert** (corresponding author) <br />
+Humboldt University of Berlin <br />
+Department of Social Sciences <br />
+Universitätsstr. 3b <br />
+D-10099 Berlin, Germany <br />
+Email: simon.munzert@hu-berlin.de <br />
