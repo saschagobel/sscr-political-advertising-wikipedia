@@ -1,4 +1,4 @@
-# Supplementary and replication materials for "Political advertising on the Wikipedia marketplace of information"
+# Supplementary and replication materials for <br /> "Political advertising on the Wikipedia marketplace of information"
 This repository contains supplementary and replication materials for the paper "Political advertising on the Wikipedia marketplace of information" by Sascha Göbel and Simon Munzert, forthcoming in [Social Science Computer Review](http://journals.sagepub.com/doi/full/10.1177/0894439317703579).
 
 ## Abstract
