@@ -6,13 +6,16 @@ We point to a popular yet underresearched platform of political information, the
 
 ## Description of folders and files
 code
-- coming soon
+- contains R code for downloading htmls and building data from it as well as Stata code for analyses and figures.
 
 data
-- coming soon
+- contains edit and traffic data for German MPs (16th to 18th term) Wikipedia biographies.
 
 figures
-- coming soon
+- contains figures (.jpg) presented in the paper.
+
+htmls
+- contains .html files of German MPs (16th to 18th term) Wikipedia and Bundestag biographies.
 
 online-appendix
 - contains additional descriptive statistics and analyses not included in the paper
